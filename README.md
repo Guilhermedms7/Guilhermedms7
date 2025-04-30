@@ -9,6 +9,7 @@ Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e mobile
 💡 Meu objetivo é atuar como desenvolvedor, contribuindo com soluções eficientes e criativas. Estou em busca de oportunidades de estágio na área de tecnologia, especialmente em desenvolvimento de software ou banco de dados.
 
 🔹 Tecnologias que utilizo:
+
 ✅ Front-end: React, HTML, CSS  
 ✅ Back-end: PHP, Python  
 ✅ Banco de dados: MySQL  
