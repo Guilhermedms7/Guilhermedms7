@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Guilherme Damasceno Oliveira
 
-**`Densevolvedor FullStack`**
+**`Software Engineer`**
 
 💻 Estudante da UNISO | Apaixonado por tecnologia, desenvolvimento de software e hardware
 
