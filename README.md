@@ -2,13 +2,15 @@
 
 **`Software Engineer`**
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas na UNISO | Apaixonado por tecnologia e desenvolvimento de software
+💻 Formado em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software | Focado em desenvolvimento de software e tecnologia
 
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, explorando tecnologias como React e PHP. Tenho experiência com bancos de dados (MySQL), manutenção de computadores e infraestrutura, buscando sempre expandir meus conhecimentos e aplicar soluções inovadoras.
+Atualmente me especializando em desenvolvimento web com React e PHP. Tenho experiência com MySQL, manutenção de computadores e infraestrutura. Estou sempre em busca de aprender mais e aplicar soluções práticas e inovadoras.
 
-💡 Meu objetivo é atuar como desenvolvedor, contribuindo com soluções eficientes e criativas. Estou em busca de oportunidades de estágio na área de tecnologia, especialmente em desenvolvimento ou banco de dados.
+🎯 Busco oportunidades de estágio em desenvolvimento ou banco de dados, onde eu possa crescer e contribuir com projetos reais.
 
-📩 Aberto para networking, projetos e oportunidades!
+📬 Aberto a conexões, projetos e novas oportunidades!
+
+
 
 ---
 
