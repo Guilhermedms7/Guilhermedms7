@@ -2,13 +2,20 @@
 
 **`Software Engineer`**
 
-💻 Formado em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software | Focado em desenvolvimento de software e tecnologia
+💻 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software, atuo com desenvolvimento de software com foco em backend, arquitetura de sistemas e implementação de regras de negócio.
 
-Atualmente me especializando em desenvolvimento web com React e PHP. Tenho experiência com MySQL, manutenção de computadores e infraestrutura. Estou sempre em busca de aprender mais e aplicar soluções práticas e inovadoras.
+Possuo experiência na construção de sistemas completos, utilizando arquitetura em camadas, boas práticas de desenvolvimento e organização de código. Atuo na criação e consumo de APIs REST, integração de sistemas de terceiros e refatoração de código legado, garantindo escalabilidade, segurança e manutenibilidade nas soluções.
 
-🎯 Busco oportunidades de estágio em desenvolvimento ou banco de dados, onde eu possa crescer e contribuir com projetos reais.
+Tenho domínio de lógica de programação, estruturas de dados e mapeamento objeto-relacional (ORM), além de experiência com bancos de dados relacionais e não relacionais, o que me permite atuar na construção e sustentação de soluções robustas de ponta a ponta.
 
-📬 Aberto a conexões, projetos e novas oportunidades!
+🚀 Tecnologias:
+• Front-end: React, HTML, CSS
+• Back-end: C#, .NET, JavaScript, Python, PHP, Java
+• Banco de dados: MySQL, MongoDB, PostgreSQL
+• Arquitetura & Ferramentas: NHibernate, ActiveRecord
+• Automação: n8n, integrações complexas e IA
+• QA: Testes manuais e noções de testes automatizados
+• Infraestrutura: DevOps
 
 
 
