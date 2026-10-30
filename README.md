@@ -1,55 +1,22 @@
-# 🧑🏻‍💻 Guilherme Damasceno Oliveira
+# Guilherme Damasceno Oliveira
 
-**`Software Engineer`**
+### Desenvolvedor de Software | Backend
 
-💻 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software, atuo com desenvolvimento de software com foco em backend, arquitetura de sistemas e implementação de regras de negócio.
+Graduado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Software. Atuo com desenvolvimento de software, com foco em backend, arquitetura de sistemas, APIs REST e regras de negócio.
 
-Possuo experiência na construção de sistemas completos, utilizando arquitetura em camadas, boas práticas de desenvolvimento e organização de código. Atuo na criação e consumo de APIs REST, integração de sistemas de terceiros e refatoração de código legado, garantindo escalabilidade, segurança e manutenibilidade nas soluções.
+### Tecnologias
 
-Tenho domínio de lógica de programação, estruturas de dados e mapeamento objeto-relacional (ORM), além de experiência com bancos de dados relacionais e não relacionais, o que me permite atuar na construção e sustentação de soluções robustas de ponta a ponta.
+- **Backend:** C#, .NET, Node.js, Python, PHP e Java
+- **Frontend e mobile:** React, JavaScript, TypeScript, HTML, CSS, Flutter e Dart
+- **Dados:** MySQL, PostgreSQL e MongoDB
+- **Qualidade:** testes manuais e Cypress
 
-🚀 Tecnologias:
-• Front-end: React, HTML, CSS
-• Back-end: C#, .NET, JavaScript, Python, PHP, Java
-• Banco de dados: MySQL, MongoDB, PostgreSQL
-• Arquitetura & Ferramentas: NHibernate, ActiveRecord
-• Automação: n8n, integrações complexas e IA
-• QA: Testes manuais e noções de testes automatizados
-• Infraestrutura: DevOps
+### Projetos em destaque
 
+- [DMSBooks](https://github.com/Guilhermedms7/DMSBOOKS) — aplicação full stack para gerenciamento de livros e usuários, com React, Node.js, Express e MySQL.
+- [DMS PiBurger](https://github.com/Guilhermedms7/DMSPIBURGUER) — aplicativo Flutter para cardápio digital e pedidos, com catálogo de produtos e carrinho.
+- [Portfólio web](https://github.com/Guilhermedms7/Portifolio/tree/main/dmsportifolio) — site pessoal desenvolvido com HTML e CSS.
 
+### Contato
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Guilhermedms7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermedms7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
+[LinkedIn](https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a)
