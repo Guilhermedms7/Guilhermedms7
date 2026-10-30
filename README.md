@@ -18,7 +18,6 @@ Atuo no desenvolvimento de back-end e APIs, integração entre serviços, modern
 ### Projetos em destaque
 
 - [DMSTECH 2.0](https://github.com/Guilhermedms7/DMSTECH2.0) — e-commerce full stack de tecnologia com React, FastAPI e MongoDB.
-- [API Resilience Lab](https://github.com/Guilhermedms7/Portifolio/tree/main/dmsportifolio/projects/api-resilience-lab) — playground no navegador para simular falhas, retries, Circuit Breaker e Feature Flags, feito com HTML, CSS e JavaScript.
 - [DMSBooks](https://github.com/Guilhermedms7/DMSBOOKS) — aplicação para gerenciamento de livros e usuários com React, Node.js, Express e MySQL.
 - [DMS PiBurger](https://github.com/Guilhermedms7/DMSPIBURGUER) — aplicativo mobile de delivery desenvolvido com Flutter.
 - [Sistema Bancário](https://github.com/Guilhermedms7/Sistema_bancario) — aplicação em Python para operações com clientes, agências e contas.
