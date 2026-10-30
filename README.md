@@ -13,6 +13,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e cursando Engenharia de Soft
 
 ### Projetos em destaque
 
+- [DMSTECH 2.0](https://github.com/Guilhermedms7/DMSTECH2.0) — loja de tecnologia full stack com React, FastAPI e MongoDB.
 - [DMSBooks](https://github.com/Guilhermedms7/DMSBOOKS) — aplicação full stack para gerenciamento de livros e usuários, com React, Node.js, Express e MySQL.
 - [DMS PiBurger](https://github.com/Guilhermedms7/DMSPIBURGUER) — aplicativo Flutter para cardápio digital e pedidos.
 - [Portfólio web](https://github.com/Guilhermedms7/Portifolio/tree/main/dmsportifolio) — site pessoal desenvolvido com HTML e CSS.
