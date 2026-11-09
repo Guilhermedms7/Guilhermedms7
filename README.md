@@ -1,29 +1,105 @@
-# Guilherme Damasceno Oliveira
+<div align="center">
+  <img src="./profile-banner.svg" alt="Guilherme Damasceno — desenvolvimento full stack, integrações e agentes de IA" width="100%" />
+</div>
 
-### Desenvolvedor Full Stack | Java · Spring Boot · C# · .NET
+<div align="center">
+  <h3>DESENVOLVEDOR FULL STACK · BACK-END · INTEGRAÇÕES · IA</h3>
+  <p>Construo soluções para sistemas corporativos — com foco em clareza, resiliência e automação.</p>
+  <a href="https://github.com/Guilhermedms7/Portifolio/tree/main/portfolio"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-ABRIR-07070D?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="Abrir código do portfólio" /></a>
+  <a href="https://english-reading-app.pages.dev"><img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-ENGLISH_READING_APP-07070D?style=for-the-badge&logo=cloudflarepages&logoColor=FCEE0A" alt="Abrir English Reading App" /></a>
+</div>
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Sorocaba (UNISO) e curso Engenharia de Software na Estácio. Atualmente trabalho como Desenvolvedor Full Stack na Develcode, contribuindo para sistemas corporativos em squads de clientes como RD Saúde e Leroy Merlin.
+---
 
-Atuo no desenvolvimento de back-end e APIs, integração entre serviços, modernização de sistemas legados e resolução de problemas relacionados a dados e regras de negócio. Também desenvolvo automações e integrações com n8n, Python e JavaScript.
+### `01 // PERFIL`
 
-### Competências
+Sou **Guilherme Damasceno**, desenvolvedor full stack na **Develcode**. Trabalho com back-end, APIs e integração entre serviços, além de modernização de sistemas e automação.
 
-- **Back-end:** Java, Spring Boot, C#, .NET, JavaScript, Python e PHP
-- **Front-end e mobile:** React.js, HTML, CSS e Flutter
-- **Bancos de dados:** PostgreSQL, MySQL e MongoDB
-- **Arquitetura e integração:** APIs REST, Circuit Breaker, Retry, Feature Flags e ORM
-- **DevOps e automação:** Git, GitHub, GitLab, ArgoCD, SonarQube, CI/CD e n8n
-- **Outros:** Figma, UX/UI e validação de regras de negócio
+Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvolvo integrações e agentes de IA com Python e exploro tecnologias web e mobile em projetos próprios.
 
-### Projetos em destaque
+> **FORMAÇÃO** · Análise e Desenvolvimento de Sistemas — UNISO<br />
+> **EM ANDAMENTO** · Engenharia de Software — Estácio
 
-- [DMSTECH 2.0](https://github.com/Guilhermedms7/DMSTECH2.0) — e-commerce full stack de tecnologia com React, FastAPI e MongoDB.
-- [DMSBooks](https://github.com/Guilhermedms7/DMSBOOKS) — aplicação para gerenciamento de livros e usuários com React, Node.js, Express e MySQL.
-- [DMS PiBurger](https://github.com/Guilhermedms7/DMSPIBURGUER) — aplicativo mobile de delivery desenvolvido com Flutter.
-- [Sistema Bancário](https://github.com/Guilhermedms7/Sistema_bancario) — aplicação em Python para operações com clientes, agências e contas.
-- [Termo](https://github.com/Guilhermedms7/Termo) — jogo de palavras para navegador, desenvolvido com HTML, CSS e JavaScript.
-- [Portfólio](https://github.com/Guilhermedms7/Portifolio/tree/main/dmsportifolio) — site pessoal desenvolvido com HTML, CSS e JavaScript.
+### `02 // PROJETOS EM DESTAQUE`
 
-### Contato
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://english-reading-app.pages.dev"><img src="https://img.shields.io/badge/01-ENGLISH_READING_APP-00F0FF?style=flat-square" alt="English Reading App" /></a>
+      <p>App de leitura em inglês com histórias, filtros por nível CEFR e exercícios de completar lacunas.</p>
+      <a href="https://english-reading-app.pages.dev">ABRIR APP ↗</a> ·
+      <a href="https://github.com/Guilhermedms7/english-reading-app">CÓDIGO ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guilhermedms7/DMSTECH2.0"><img src="https://img.shields.io/badge/02-DMSTECH_2.0-FCEE0A?style=flat-square" alt="DMSTECH 2.0" /></a>
+      <p>E-commerce full stack com catálogo, busca, ofertas e carrinho, conectado a API e banco de dados.</p>
+      <a href="https://github.com/Guilhermedms7/DMSTECH2.0">VER REPOSITÓRIO ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guilhermedms7/DMSBOOKS"><img src="https://img.shields.io/badge/03-DMSBOOKS-00F0FF?style=flat-square" alt="DMSBooks" /></a>
+      <p>Aplicação full stack para cadastro e gerenciamento de livros e usuários.</p>
+      <a href="https://github.com/Guilhermedms7/DMSBOOKS">VER REPOSITÓRIO ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guilhermedms7/DMSPIBURGUER"><img src="https://img.shields.io/badge/04-DMS_PIBURGER-FF2A6D?style=flat-square" alt="DMS PiBurger" /></a>
+      <p>Aplicativo mobile de delivery com Flutter.</p>
+      <a href="https://github.com/Guilhermedms7/DMSPIBURGUER">VER REPOSITÓRIO ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guilhermedms7/Termo"><img src="https://img.shields.io/badge/05-TERMO-FCEE0A?style=flat-square" alt="Termo" /></a>
+      <p>Jogo de palavras no navegador com os modos Termo, Dueto e Quarteto.</p>
+      <a href="https://github.com/Guilhermedms7/Termo">VER REPOSITÓRIO ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Guilhermedms7/Sistema_bancario"><img src="https://img.shields.io/badge/06-SISTEMA_BANC%C3%81RIO-00F0FF?style=flat-square" alt="Sistema Bancário" /></a>
+      <p>Projeto em Python para operações com clientes, agências e contas.</p>
+      <a href="https://github.com/Guilhermedms7/Sistema_bancario">VER REPOSITÓRIO ↗</a>
+    </td>
+  </tr>
+</table>
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/) · [GitHub](https://github.com/Guilhermedms7)
+### `03 // STACK`
+
+**BACK-END**
+
+![Java](https://img.shields.io/badge/Java-FCEE0A?style=flat-square&logo=openjdk&logoColor=07070D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FCEE0A?style=flat-square&logo=springboot&logoColor=07070D)
+![C Sharp](https://img.shields.io/badge/C%23-00F0FF?style=flat-square&logo=csharp&logoColor=07070D)
+![.NET](https://img.shields.io/badge/.NET-00F0FF?style=flat-square&logo=dotnet&logoColor=07070D)
+![Python](https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=07070D)
+![FastAPI](https://img.shields.io/badge/FastAPI-00F0FF?style=flat-square&logo=fastapi&logoColor=07070D)
+
+**IA, INTEGRAÇÃO & RESILIÊNCIA**
+
+![LangChain](https://img.shields.io/badge/LangChain-FF2A6D?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF2A6D?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF2A6D?style=flat-square&logo=amazonaws&logoColor=white)
+![REST APIs](https://img.shields.io/badge/APIs_REST-07070D?style=flat-square)
+![Retry](https://img.shields.io/badge/Retry-07070D?style=flat-square)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-07070D?style=flat-square)
+![Feature Flags](https://img.shields.io/badge/Feature_Flags-07070D?style=flat-square)
+
+**WEB, DADOS & ENTREGA**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-07070D?style=flat-square&logo=javascript&logoColor=FCEE0A)
+![TypeScript](https://img.shields.io/badge/TypeScript-07070D?style=flat-square&logo=typescript&logoColor=00F0FF)
+![React](https://img.shields.io/badge/React-07070D?style=flat-square&logo=react&logoColor=00F0FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07070D?style=flat-square&logo=postgresql&logoColor=00F0FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-07070D?style=flat-square&logo=mongodb&logoColor=FCEE0A)
+![Docker](https://img.shields.io/badge/Docker-07070D?style=flat-square&logo=docker&logoColor=00F0FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-07070D?style=flat-square&logo=kubernetes&logoColor=00F0FF)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-07070D?style=flat-square&logo=gitlab&logoColor=FF2A6D)
+
+### `04 // CONTATO`
+
+<div align="center">
+  <a href="mailto:guilhermedamascenooliveira@gmail.com">E-MAIL</a> ·
+  <a href="https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/">LINKEDIN</a> ·
+  <a href="https://github.com/Guilhermedms7">GITHUB</a>
+  <br /><br />
+  <sub>GUILHERME DAMASCENO · FULL STACK DEVELOPER</sub>
+</div>
