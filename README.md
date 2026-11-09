@@ -5,8 +5,10 @@
 <div align="center">
   <h3>DESENVOLVEDOR FULL STACK · BACK-END · INTEGRAÇÕES · IA</h3>
   <p>Construo soluções para sistemas corporativos — com foco em clareza, resiliência e automação.</p>
-  <a href="https://github.com/Guilhermedms7/Portifolio/tree/main/portfolio"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-ABRIR-07070D?style=for-the-badge&logo=github&logoColor=FCEE0A" alt="Abrir código do portfólio" /></a>
+  <a href="https://guilherme-damasceno.pages.dev"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-ABRIR_SITE-07070D?style=for-the-badge&logo=cloudflarepages&logoColor=FCEE0A" alt="Abrir site do portfólio" /></a>
   <a href="https://english-reading-app.pages.dev"><img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-ENGLISH_READING_APP-07070D?style=for-the-badge&logo=cloudflarepages&logoColor=FCEE0A" alt="Abrir English Reading App" /></a>
+  <br />
+  <a href="https://github.com/Guilhermedms7/Portifolio/tree/main/portfolio">CÓDIGO-FONTE DO PORTFÓLIO ↗</a>
 </div>
 
 ---
