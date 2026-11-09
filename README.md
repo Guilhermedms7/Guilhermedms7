@@ -20,26 +20,7 @@ Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvo
 > **FORMAÇÃO** · Análise e Desenvolvimento de Sistemas — UNISO<br />
 > **EM ANDAMENTO** · Engenharia de Software — Estácio
 
-### `02 // FRENTES DE ATUAÇÃO`
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>BACK-END</strong><br />
-      APIs e sistemas com Java / Spring Boot e C# / .NET.
-    </td>
-    <td width="33%" valign="top">
-      <strong>INTEGRAÇÕES</strong><br />
-      Conexão entre serviços, resiliência e automação de processos.
-    </td>
-    <td width="34%" valign="top">
-      <strong>IA APLICADA</strong><br />
-      Agentes e integrações com Python, além de projetos próprios.
-    </td>
-  </tr>
-</table>
-
-### `03 // PROJETOS EM DESTAQUE`
+### `02 // PROJETOS EM DESTAQUE`
 
 <table>
   <tr>
@@ -81,44 +62,44 @@ Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvo
   </tr>
 </table>
 
-### `04 // STACK`
+### `03 // STACK`
 
 **BACK-END**
 
-![Java](https://img.shields.io/badge/Java-FCEE0A?style=flat-square&logo=openjdk&logoColor=07070D)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FCEE0A?style=flat-square&logo=springboot&logoColor=07070D)
-![C Sharp](https://img.shields.io/badge/C%23-00F0FF?style=flat-square&logo=csharp&logoColor=07070D)
-![.NET](https://img.shields.io/badge/.NET-00F0FF?style=flat-square&logo=dotnet&logoColor=07070D)
-![Python](https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=07070D)
-![FastAPI](https://img.shields.io/badge/FastAPI-00F0FF?style=flat-square&logo=fastapi&logoColor=07070D)
+![Java](https://img.shields.io/badge/Java--07070D?style=flat-square&labelColor=07070D&logo=openjdk&logoColor=FCEE0A)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot--07070D?style=flat-square&labelColor=07070D&logo=springboot&logoColor=FCEE0A)
+![C Sharp](https://img.shields.io/badge/C%23--07070D?style=flat-square&labelColor=07070D&logo=csharp&logoColor=00F0FF)
+![.NET](https://img.shields.io/badge/.NET--07070D?style=flat-square&labelColor=07070D&logo=dotnet&logoColor=00F0FF)
+![Python](https://img.shields.io/badge/Python--07070D?style=flat-square&labelColor=07070D&logo=python&logoColor=00F0FF)
+![FastAPI](https://img.shields.io/badge/FastAPI--07070D?style=flat-square&labelColor=07070D&logo=fastapi&logoColor=00F0FF)
 
 **IA, INTEGRAÇÃO & RESILIÊNCIA**
 
-![LangChain](https://img.shields.io/badge/LangChain-FF2A6D?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF2A6D?style=flat-square)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF2A6D?style=flat-square&logo=amazonaws&logoColor=white)
-![REST APIs](https://img.shields.io/badge/APIs_REST-07070D?style=flat-square)
-![Retry](https://img.shields.io/badge/Retry-07070D?style=flat-square)
-![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-07070D?style=flat-square)
-![Feature Flags](https://img.shields.io/badge/Feature_Flags-07070D?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain--07070D?style=flat-square&labelColor=07070D)
+![LangGraph](https://img.shields.io/badge/LangGraph--07070D?style=flat-square&labelColor=07070D)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock--07070D?style=flat-square&labelColor=07070D&logo=amazonaws&logoColor=FF2A6D)
+![REST APIs](https://img.shields.io/badge/APIs_REST--07070D?style=flat-square&labelColor=07070D)
+![Retry](https://img.shields.io/badge/Retry--07070D?style=flat-square&labelColor=07070D)
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker--07070D?style=flat-square&labelColor=07070D)
+![Feature Flags](https://img.shields.io/badge/Feature_Flags--07070D?style=flat-square&labelColor=07070D)
 
 **WEB, DADOS & ENTREGA**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-07070D?style=flat-square&logo=javascript&logoColor=FCEE0A)
-![TypeScript](https://img.shields.io/badge/TypeScript-07070D?style=flat-square&logo=typescript&logoColor=00F0FF)
-![React](https://img.shields.io/badge/React-07070D?style=flat-square&logo=react&logoColor=00F0FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07070D?style=flat-square&logo=postgresql&logoColor=00F0FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-07070D?style=flat-square&logo=mongodb&logoColor=FCEE0A)
-![Docker](https://img.shields.io/badge/Docker-07070D?style=flat-square&logo=docker&logoColor=00F0FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-07070D?style=flat-square&logo=kubernetes&logoColor=00F0FF)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-07070D?style=flat-square&logo=gitlab&logoColor=FF2A6D)
+![JavaScript](https://img.shields.io/badge/JavaScript--07070D?style=flat-square&labelColor=07070D&logo=javascript&logoColor=FCEE0A)
+![TypeScript](https://img.shields.io/badge/TypeScript--07070D?style=flat-square&labelColor=07070D&logo=typescript&logoColor=00F0FF)
+![React](https://img.shields.io/badge/React--07070D?style=flat-square&labelColor=07070D&logo=react&logoColor=00F0FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL--07070D?style=flat-square&labelColor=07070D&logo=postgresql&logoColor=00F0FF)
+![MongoDB](https://img.shields.io/badge/MongoDB--07070D?style=flat-square&labelColor=07070D&logo=mongodb&logoColor=FCEE0A)
+![Docker](https://img.shields.io/badge/Docker--07070D?style=flat-square&labelColor=07070D&logo=docker&logoColor=00F0FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes--07070D?style=flat-square&labelColor=07070D&logo=kubernetes&logoColor=00F0FF)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI--07070D?style=flat-square&labelColor=07070D&logo=gitlab&logoColor=FF2A6D)
 
-### `05 // CANAL ABERTO`
+### `04 // CANAL ABERTO`
 
 <div align="center">
-  <a href="mailto:guilhermedamascenooliveira@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-FAFAFA-07070D?style=for-the-badge&logo=gmail&logoColor=07070D" alt="Enviar e-mail" /></a>
-  <a href="https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF-07070D?style=for-the-badge&logo=linkedin&logoColor=07070D" alt="Perfil no LinkedIn" /></a>
-  <a href="https://github.com/Guilhermedms7"><img src="https://img.shields.io/badge/GITHUB-FCEE0A-07070D?style=for-the-badge&logo=github&logoColor=07070D" alt="Perfil no GitHub" /></a>
+  <a href="mailto:guilhermedamascenooliveira@gmail.com"><img src="https://img.shields.io/badge/EMAIL--07070D?style=for-the-badge&labelColor=07070D&logo=gmail&logoColor=FCEE0A" alt="Enviar e-mail" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/"><img src="https://img.shields.io/badge/LINKEDIN--07070D?style=for-the-badge&labelColor=07070D&logo=linkedin&logoColor=00F0FF" alt="Perfil no LinkedIn" /></a>
+  <a href="https://github.com/Guilhermedms7"><img src="https://img.shields.io/badge/GITHUB--07070D?style=for-the-badge&labelColor=07070D&logo=github&logoColor=FCEE0A" alt="Perfil no GitHub" /></a>
   <br /><br />
-  <img src="./profile-footer.svg" alt="Obrigado pela visita — Guilherme Damasceno, desenvolvedor full stack" width="100%" />
+  <sub>GUILHERME DAMASCENO · BACK-END · INTEGRAÇÕES · IA</sub>
 </div>
