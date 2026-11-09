@@ -20,7 +20,26 @@ Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvo
 > **FORMAÇÃO** · Análise e Desenvolvimento de Sistemas — UNISO<br />
 > **EM ANDAMENTO** · Engenharia de Software — Estácio
 
-### `02 // PROJETOS EM DESTAQUE`
+### `02 // FRENTES DE ATUAÇÃO`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>BACK-END</strong><br />
+      APIs e sistemas com Java / Spring Boot e C# / .NET.
+    </td>
+    <td width="33%" valign="top">
+      <strong>INTEGRAÇÕES</strong><br />
+      Conexão entre serviços, resiliência e automação de processos.
+    </td>
+    <td width="34%" valign="top">
+      <strong>IA APLICADA</strong><br />
+      Agentes e integrações com Python, além de projetos próprios.
+    </td>
+  </tr>
+</table>
+
+### `03 // PROJETOS EM DESTAQUE`
 
 <table>
   <tr>
@@ -62,7 +81,7 @@ Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvo
   </tr>
 </table>
 
-### `03 // STACK`
+### `04 // STACK`
 
 **BACK-END**
 
@@ -94,12 +113,12 @@ Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também desenvo
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-07070D?style=flat-square&logo=kubernetes&logoColor=00F0FF)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-07070D?style=flat-square&logo=gitlab&logoColor=FF2A6D)
 
-### `04 // CONTATO`
+### `05 // CANAL ABERTO`
 
 <div align="center">
-  <a href="mailto:guilhermedamascenooliveira@gmail.com">E-MAIL</a> ·
-  <a href="https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/">LINKEDIN</a> ·
-  <a href="https://github.com/Guilhermedms7">GITHUB</a>
+  <a href="mailto:guilhermedamascenooliveira@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-FAFAFA-07070D?style=for-the-badge&logo=gmail&logoColor=07070D" alt="Enviar e-mail" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-damasceno-oliveira-a308b226a/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF-07070D?style=for-the-badge&logo=linkedin&logoColor=07070D" alt="Perfil no LinkedIn" /></a>
+  <a href="https://github.com/Guilhermedms7"><img src="https://img.shields.io/badge/GITHUB-FCEE0A-07070D?style=for-the-badge&logo=github&logoColor=07070D" alt="Perfil no GitHub" /></a>
   <br /><br />
-  <sub>GUILHERME DAMASCENO · FULL STACK DEVELOPER</sub>
+  <img src="./profile-footer.svg" alt="Obrigado pela visita — Guilherme Damasceno, desenvolvedor full stack" width="100%" />
 </div>
