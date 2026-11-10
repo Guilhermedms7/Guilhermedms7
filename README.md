@@ -16,32 +16,30 @@ Sou **Guilherme Damasceno**, desenvolvedor full stack na **Develcode**. Trabalho
 
 <br />
 
-<img src="assets/profile-readme/sec-02-missoes.svg" alt="02 // Log de missões — experiência profissional" width="100%" />
+<img src="assets/profile-readme/sec-02-experiencia.svg" alt="02 // Experiência profissional" width="100%" />
 
-Na RD Saúde, contribuo com serviços que apoiam a geração e validação de histórias de usuário com IA.
+Atuo em frentes de desenvolvimento e evolução de sistemas corporativos:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/profile-readme/m1.svg" alt="Missão 1 — agentes de IA" width="100%" />
-      <p>Integrei serviços de IA a um gateway corporativo, cuidando da rastreabilidade das requisições, dos timeouts, do tratamento de erros e da observabilidade.</p>
+      <strong>BACK-END &amp; REGRAS DE NEGÓCIO</strong>
+      <p>Desenvolvo e mantenho APIs e serviços, implementando validações e regras de negócio para apoiar fluxos corporativos.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/profile-readme/m2.svg" alt="Missão 2 — resiliência de agentes" width="100%" />
-      <p>Reforcei a resiliência do agente para lidar com falhas temporárias e respostas incompletas, validando a consistência dos itens analisados.</p>
+      <strong>INTEGRAÇÕES &amp; AUTOMAÇÃO</strong>
+      <p>Conecto serviços e automatizo processos, considerando tratamento de erros, rastreabilidade e consistência das informações.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/profile-readme/m7.svg" alt="Missão 4 — modernização de sistemas" width="100%" />
-      <p>Na Leroy Merlin, atuo na manutenção e modernização de sistemas legados com C# e .NET, investigando regras de negócio e inconsistências de dados.</p>
+      <strong>EVOLUÇÃO DE SISTEMAS</strong>
+      <p>Atuo na manutenção e modernização de sistemas existentes, investigando comportamentos e apoiando a evolução de aplicações e dados.</p>
     </td>
   </tr>
 </table>
 
-Também implementei validações de campos obrigatórios antes do cálculo, com feedback claro e bloqueio automático quando os dados estão incompletos.
-
-Também crio automações e integrações com **n8n**, **Python** e **JavaScript** para apoiar processos e reduzir tarefas manuais.
+Trabalho nessas frentes em squads da **RD Saúde** e da **Leroy Merlin** e também desenvolvo automações com **n8n**, **Python** e **JavaScript**.
 
 <br />
 
