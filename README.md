@@ -8,14 +8,11 @@
 
 <br />
 
-<img src="assets/profile-readme/sec-01-dossie.svg" alt="01 // Dossiê — perfil" width="100%" />
+<img src="assets/profile-readme/sec-01-dossie.svg" alt="01 // Dossiê — perfil do operador" width="100%" />
 
-Sou **Guilherme Damasceno**, desenvolvedor full stack na **Develcode**. Atuo em squads da RD Saúde e da Leroy Merlin, trabalhando com back-end, integrações, modernização de sistemas e automação.
+<img src="assets/profile-readme/dossie.svg" alt="Dossiê: Guilherme Damasceno, desenvolvedor full stack na Develcode, foco em back-end, integrações e agentes de IA. Formação: Análise e Desenvolvimento de Sistemas (UNISO, concluído) e Engenharia de Software (Estácio, em andamento). Inglês intermediário." width="100%" />
 
-Minha stack principal é **Java / Spring Boot** e **C# / .NET**. Também trabalho com Python, agentes de IA, n8n e tecnologias web e mobile em projetos próprios.
-
-> **FORMAÇÃO** · Análise e Desenvolvimento de Sistemas — UNISO<br />
-> **EM ANDAMENTO** · Engenharia de Software — Estácio
+Sou **Guilherme Damasceno**, desenvolvedor full stack na **Develcode**. Trabalho com back-end, APIs e integração entre serviços, além de modernização de sistemas e automação. Minha stack principal é **Java / Spring Boot** e **C# / .NET**; também desenvolvo integrações e agentes de IA com **Python** e exploro web e mobile em projetos próprios.
 
 <br />
 
