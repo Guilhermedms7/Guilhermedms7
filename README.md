@@ -16,30 +16,63 @@ Sou **Guilherme Damasceno**, desenvolvedor full stack na **Develcode**. Trabalho
 
 <br />
 
-<img src="assets/profile-readme/sec-02-experiencia.svg" alt="02 // Experiência profissional" width="100%" />
+<img src="assets/profile-readme/sec-02-missoes.svg" alt="02 // Log de missões — experiência profissional" width="100%" />
 
-Atuo em frentes de desenvolvimento e evolução de sistemas corporativos:
+Atuo em equipes de desenvolvimento de sistemas corporativos, com foco em back-end, integração de serviços e automação.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>BACK-END &amp; REGRAS DE NEGÓCIO</strong>
-      <p>Desenvolvo e mantenho APIs e serviços, implementando validações e regras de negócio para apoiar fluxos corporativos.</p>
+      <img src="assets/profile-readme/m1.svg" alt="M-01 — integração de serviços" width="100%" />
+      <p><b>Missão ·</b> conectar serviços de forma consistente.<br />
+      <b>Ação ·</b> desenvolvi fluxos de integração com tratamento de falhas e rastreabilidade.<br />
+      <b>Resultado ·</b> comunicação entre sistemas mais organizada e simples de acompanhar.</p>
     </td>
     <td width="50%" valign="top">
-      <strong>INTEGRAÇÕES &amp; AUTOMAÇÃO</strong>
-      <p>Conecto serviços e automatizo processos, considerando tratamento de erros, rastreabilidade e consistência das informações.</p>
+      <img src="assets/profile-readme/m2.svg" alt="M-02 — resiliência de sistemas" width="100%" />
+      <p><b>Missão ·</b> manter os fluxos preparados para imprevistos.<br />
+      <b>Ação ·</b> tratei falhas temporárias, erros e respostas incompletas.<br />
+      <b>Resultado ·</b> comportamentos mais previsíveis durante a execução.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/profile-readme/m3.svg" alt="M-03 — validação de regras" width="100%" />
+      <p><b>Missão ·</b> validar informações antes do processamento.<br />
+      <b>Ação ·</b> implementei regras de validação e feedback para dados incompletos.<br />
+      <b>Resultado ·</b> fluxos mais claros e consistentes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/profile-readme/m4.svg" alt="M-04 — qualidade de software" width="100%" />
+      <p><b>Missão ·</b> apoiar a evolução confiável das aplicações.<br />
+      <b>Ação ·</b> revisei componentes e ampliei cenários de teste.<br />
+      <b>Resultado ·</b> mudanças acompanhadas por verificações mais abrangentes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/profile-readme/m5.svg" alt="M-05 — segurança e manutenção" width="100%" />
+      <p><b>Missão ·</b> contribuir para sistemas mais seguros e sustentáveis.<br />
+      <b>Ação ·</b> tratei riscos de software e melhorei aspectos de manutenção.<br />
+      <b>Resultado ·</b> aplicações mais preparadas para evoluir.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/profile-readme/m6.svg" alt="M-06 — entrega e operação" width="100%" />
+      <p><b>Missão ·</b> apoiar a entrega e o acompanhamento dos serviços.<br />
+      <b>Ação ·</b> contribuí com automação, deploys e observabilidade.<br />
+      <b>Resultado ·</b> processos de entrega mais organizados.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <strong>EVOLUÇÃO DE SISTEMAS</strong>
-      <p>Atuo na manutenção e modernização de sistemas existentes, investigando comportamentos e apoiando a evolução de aplicações e dados.</p>
+      <img src="assets/profile-readme/m7.svg" alt="M-07 — modernização de sistemas" width="50%" />
+      <p><b>Contexto ·</b> manutenção e evolução de aplicações existentes.<br />
+      <b>Ação ·</b> modernizei componentes, revisei a persistência de dados e investiguei regras de negócio.</p>
     </td>
   </tr>
 </table>
 
-Trabalho nessas frentes em squads da **RD Saúde** e da **Leroy Merlin** e também desenvolvo automações com **n8n**, **Python** e **JavaScript**.
+Também desenvolvo automações com **n8n**, **Python** e **JavaScript** para apoiar processos de trabalho.
 
 <br />
 

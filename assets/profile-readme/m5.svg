@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="60" viewBox="0 0 430 60" role="img" aria-labelledby="title description">
+  <title id="title">M-05 - Seguran&#231;a E Evolu&#231;&#227;o</title>
+  <desc id="description">Cartao de experiencia com titulo generico e categorias de atuacao.</desc>
+  <polygon points="12,0 430,0 430,48 418,60 0,60 0,12" fill="#0c0c17" stroke="#262640" stroke-width="1.2"/>
+  <polygon points="12,0 66,0 66,60 0,60 0,12" fill="#00f0ff"/>
+  <text x="33" y="36" fill="#07070d" font-family="Consolas,monospace" font-size="13" font-weight="700" text-anchor="middle">M-05</text>
+  <text x="84" y="27" fill="#eceef6" font-family="'Arial Narrow',Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="-0.4">SEGURAN&#199;A E EVOLU&#199;&#195;O</text>
+  <text x="84" y="48" fill="#00f0ff" font-family="Consolas,monospace" font-size="8.5" font-weight="700" letter-spacing="0.7">BOAS PRATICAS | MANUTENCAO</text>
+  <path d="M67 57H416" stroke="#00f0ff" stroke-opacity=".55" stroke-width="2"/>
+</svg>
