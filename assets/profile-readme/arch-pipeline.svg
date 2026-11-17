@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="114" viewBox="0 0 880 114" role="img" aria-labelledby="pipe-title pipe-desc">
+  <title id="pipe-title">Pipeline Operacional — Core API, Agente IA, LLM Gateway e DevSecOps</title>
+  <desc id="pipe-desc">Fluxo arquitetural em quatro estágios conectando Java 17 Spring Boot, FastAPI LangGraph, AWS Bedrock Langfuse e Kubernetes Datadog.</desc>
+  <style>
+    .flow { stroke-dasharray: 6 18; animation: dash 2.4s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -48; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="879" height="113" fill="#080911" stroke="#1e2238" stroke-width="1" />
+  <text x="16" y="19" fill="#85889c" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9.5" font-weight="700" letter-spacing="1.1">PIPELINE OPERACIONAL EM PRODUÇÃO // ARQUITETURA RESILIENTE PONTA A PONTA</text>
+
+  <!-- Connectors -->
+  <line x1="208" y1="66" x2="232" y2="66" stroke="#262b44" stroke-width="2" />
+  <line class="flow" x1="208" y1="66" x2="232" y2="66" stroke="#fcee0a" stroke-width="2" />
+
+  <line x1="428" y1="66" x2="452" y2="66" stroke="#262b44" stroke-width="2" />
+  <line class="flow" x1="428" y1="66" x2="452" y2="66" stroke="#00f0ff" stroke-width="2" />
+
+  <line x1="648" y1="66" x2="672" y2="66" stroke="#262b44" stroke-width="2" />
+  <line class="flow" x1="648" y1="66" x2="672" y2="66" stroke="#ff2a6d" stroke-width="2" />
+
+  <!-- Stage 01 -->
+  <polygon points="16,38 24,30 208,30 208,98 16,98" fill="#0e101c" stroke="#fcee0a" stroke-opacity="0.6" stroke-width="1.2" />
+  <text x="28" y="48" fill="#fcee0a" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9" font-weight="700" letter-spacing="0.8">01 // GUARDRAILS</text>
+  <text x="28" y="68" fill="#f4f3ee" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="800">CORE API</text>
+  <text x="28" y="86" fill="#bdbfd0" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9">Java 17 · Spring · Fail-Closed</text>
+
+  <!-- Stage 02 -->
+  <polygon points="232,38 240,30 428,30 428,98 232,98" fill="#0e101c" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="1.2" />
+  <text x="244" y="48" fill="#00f0ff" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9" font-weight="700" letter-spacing="0.8">02 // ORCHESTRATOR</text>
+  <text x="244" y="68" fill="#f4f3ee" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="800">AGENTE DE IA</text>
+  <text x="244" y="86" fill="#bdbfd0" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9">FastAPI · LangGraph · Schema 1:1</text>
+
+  <!-- Stage 03 -->
+  <polygon points="452,38 460,30 648,30 648,98 452,98" fill="#0e101c" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="1.2" />
+  <text x="464" y="48" fill="#00f0ff" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9" font-weight="700" letter-spacing="0.8">03 // LLM GATEWAY</text>
+  <text x="464" y="68" fill="#f4f3ee" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="800">BEDROCK &amp; TRACE</text>
+  <text x="464" y="86" fill="#bdbfd0" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9">AWS Bedrock · Retries · Langfuse</text>
+
+  <!-- Stage 04 -->
+  <polygon points="672,38 680,30 864,30 864,98 672,98" fill="#0e101c" stroke="#ff2a6d" stroke-opacity="0.65" stroke-width="1.2" />
+  <text x="684" y="48" fill="#ff2a6d" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9" font-weight="700" letter-spacing="0.8">04 // DEVSECOPS</text>
+  <text x="684" y="68" fill="#f4f3ee" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="800">CLOUD &amp; SECURITY</text>
+  <text x="684" y="86" fill="#bdbfd0" font-family="ui-monospace,'Cascadia Mono',Consolas,monospace" font-size="9">K8s · ArgoCD · Datadog · SAST</text>
+</svg>
